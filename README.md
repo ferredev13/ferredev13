@@ -1,6 +1,6 @@
 
 
-# 👋 Olá! Eu sou a Márcio Ferre  
+# 👋 Olá! Eu sou o Márcio Ferre  
 
 💻 Analista de TI | 🚀 Em transição para Ciência de Dados | 📊 Power BI e SQL  
 
